@@ -1,0 +1,9 @@
+.ball{
+    width: 10vmin;
+    height: 10vmin;
+    border-radius: 50%;
+    background-color: rgb(162, 221, 51);
+    position: absolute;
+    bottom: 0%;
+    left: 0px;
+}
